@@ -1,0 +1,7 @@
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\PackagePro\obj\Debug\PackagePro.csprojAssemblyReference.cache
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\PackagePro\obj\Debug\PackagePro.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\PackagePro\bin\Debug\PackagePro.exe.config
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\PackagePro\bin\Debug\PackagePro.exe
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\PackagePro\bin\Debug\PackagePro.pdb
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\PackagePro\obj\Debug\PackagePro.exe
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\PackagePro\obj\Debug\PackagePro.pdb
