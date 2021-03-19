@@ -40,7 +40,7 @@ namespace PackageProUpdate
             }
             else
             {
-                int total = dimensions * weight / 100;
+                int total = height * Width * length * weight / 100;
                 Console.WriteLine("Your total is: $" + total + " Thankyou!");
             }
 
