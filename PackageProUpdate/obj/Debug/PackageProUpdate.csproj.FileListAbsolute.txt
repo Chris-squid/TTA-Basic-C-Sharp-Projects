@@ -1,0 +1,7 @@
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\PackageProUpdate\bin\Debug\PackageProUpdate.exe.config
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\PackageProUpdate\bin\Debug\PackageProUpdate.exe
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\PackageProUpdate\bin\Debug\PackageProUpdate.pdb
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\PackageProUpdate\obj\Debug\PackageProUpdate.csprojAssemblyReference.cache
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\PackageProUpdate\obj\Debug\PackageProUpdate.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\PackageProUpdate\obj\Debug\PackageProUpdate.exe
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\PackageProUpdate\obj\Debug\PackageProUpdate.pdb
