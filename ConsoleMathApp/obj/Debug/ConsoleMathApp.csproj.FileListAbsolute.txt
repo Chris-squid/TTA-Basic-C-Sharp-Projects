@@ -1,0 +1,7 @@
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\ConsoleMathApp\bin\Debug\ConsoleMathApp.exe.config
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\ConsoleMathApp\bin\Debug\ConsoleMathApp.exe
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\ConsoleMathApp\bin\Debug\ConsoleMathApp.pdb
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\ConsoleMathApp\obj\Debug\ConsoleMathApp.csprojAssemblyReference.cache
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\ConsoleMathApp\obj\Debug\ConsoleMathApp.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\ConsoleMathApp\obj\Debug\ConsoleMathApp.exe
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\ConsoleMathApp\obj\Debug\ConsoleMathApp.pdb
