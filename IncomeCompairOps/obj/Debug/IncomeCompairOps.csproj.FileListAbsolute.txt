@@ -1,0 +1,6 @@
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\IncomeCompairOps\bin\Debug\IncomeCompairOps.exe.config
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\IncomeCompairOps\bin\Debug\IncomeCompairOps.exe
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\IncomeCompairOps\bin\Debug\IncomeCompairOps.pdb
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\IncomeCompairOps\obj\Debug\IncomeCompairOps.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\IncomeCompairOps\obj\Debug\IncomeCompairOps.exe
+C:\Users\15039\OneDrive\Desktop\Basic_C#_Programs\IncomeCompairOps\obj\Debug\IncomeCompairOps.pdb
