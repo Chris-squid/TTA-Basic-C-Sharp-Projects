@@ -1,0 +1,6 @@
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\DOBoolean\bin\Debug\DOBoolean.exe.config
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\DOBoolean\bin\Debug\DOBoolean.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\DOBoolean\bin\Debug\DOBoolean.pdb
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\DOBoolean\obj\Debug\DOBoolean.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\DOBoolean\obj\Debug\DOBoolean.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\DOBoolean\obj\Debug\DOBoolean.pdb
