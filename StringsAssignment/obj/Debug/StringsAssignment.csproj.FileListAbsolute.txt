@@ -1,0 +1,6 @@
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\StringsAssignment\bin\Debug\StringsAssignment.exe.config
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\StringsAssignment\bin\Debug\StringsAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\StringsAssignment\bin\Debug\StringsAssignment.pdb
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\StringsAssignment\obj\Debug\StringsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\StringsAssignment\obj\Debug\StringsAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\StringsAssignment\obj\Debug\StringsAssignment.pdb
