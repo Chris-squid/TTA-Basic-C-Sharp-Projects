@@ -1,0 +1,6 @@
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\Arrays_Lists\bin\Debug\Arrays_Lists.exe.config
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\Arrays_Lists\bin\Debug\Arrays_Lists.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\Arrays_Lists\bin\Debug\Arrays_Lists.pdb
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\Arrays_Lists\obj\Debug\Arrays_Lists.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\Arrays_Lists\obj\Debug\Arrays_Lists.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\Arrays_Lists\obj\Debug\Arrays_Lists.pdb
