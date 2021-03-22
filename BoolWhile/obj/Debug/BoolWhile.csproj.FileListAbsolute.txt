@@ -1,0 +1,7 @@
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\BoolWhile\bin\Debug\BoolWhile.exe.config
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\BoolWhile\bin\Debug\BoolWhile.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\BoolWhile\bin\Debug\BoolWhile.pdb
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\BoolWhile\obj\Debug\BoolWhile.csprojAssemblyReference.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\BoolWhile\obj\Debug\BoolWhile.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\BoolWhile\obj\Debug\BoolWhile.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\BoolWhile\obj\Debug\BoolWhile.pdb
