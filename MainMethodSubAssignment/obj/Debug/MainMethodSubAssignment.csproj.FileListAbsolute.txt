@@ -1,0 +1,7 @@
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodSubAssignment\bin\Debug\MainMethodSubAssignment.exe.config
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodSubAssignment\bin\Debug\MainMethodSubAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodSubAssignment\bin\Debug\MainMethodSubAssignment.pdb
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodSubAssignment\obj\Debug\MainMethodSubAssignment.csprojAssemblyReference.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodSubAssignment\obj\Debug\MainMethodSubAssignment.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodSubAssignment\obj\Debug\MainMethodSubAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodSubAssignment\obj\Debug\MainMethodSubAssignment.pdb
