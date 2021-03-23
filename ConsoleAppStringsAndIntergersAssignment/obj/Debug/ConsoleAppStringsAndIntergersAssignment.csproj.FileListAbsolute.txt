@@ -1,0 +1,6 @@
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsoleAppStringsAndIntergersAssignment\bin\Debug\ConsoleAppStringsAndIntergersAssignment.exe.config
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsoleAppStringsAndIntergersAssignment\bin\Debug\ConsoleAppStringsAndIntergersAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsoleAppStringsAndIntergersAssignment\bin\Debug\ConsoleAppStringsAndIntergersAssignment.pdb
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsoleAppStringsAndIntergersAssignment\obj\Debug\ConsoleAppStringsAndIntergersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsoleAppStringsAndIntergersAssignment\obj\Debug\ConsoleAppStringsAndIntergersAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ConsoleAppStringsAndIntergersAssignment\obj\Debug\ConsoleAppStringsAndIntergersAssignment.pdb
