@@ -1,0 +1,7 @@
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\AbstractClassSubAssignment\bin\Debug\AbstractClassSubAssignment.exe.config
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\AbstractClassSubAssignment\bin\Debug\AbstractClassSubAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\AbstractClassSubAssignment\bin\Debug\AbstractClassSubAssignment.pdb
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\AbstractClassSubAssignment\obj\Debug\AbstractClassSubAssignment.csprojAssemblyReference.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\AbstractClassSubAssignment\obj\Debug\AbstractClassSubAssignment.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\AbstractClassSubAssignment\obj\Debug\AbstractClassSubAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\AbstractClassSubAssignment\obj\Debug\AbstractClassSubAssignment.pdb
