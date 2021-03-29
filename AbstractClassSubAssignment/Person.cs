@@ -6,11 +6,17 @@ using System.Threading.Tasks;
 
 namespace AbstractClassSubAssignment
 {
-    public abstract class Person
+    public class Person // Create an abstract class with 2 properties: string firstName, lastName.
     {
         public string firstName { get; set; }
         public string lastName { get; set; }
 
-        public abstract void SayName();
+        public void SayName()
+        {
+            string fullName = firstName + lastName;
+            Console.WriteLine("Name: " + fullName);
+            Console.ReadLine();
+        }
+        
     }
 }

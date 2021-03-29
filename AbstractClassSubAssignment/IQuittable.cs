@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace AbstractClassSubAssignment
 {
-    class Program
+    interface IQuittable
     {
-        static void Main(string[] args)
-        {
-            Employee n = new Employee();
-            n.SayName();
-            n.Quit();
-        }
+        void Quit();
     }
 }

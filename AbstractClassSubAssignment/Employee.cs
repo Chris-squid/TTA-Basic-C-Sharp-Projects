@@ -6,18 +6,18 @@ using System.Threading.Tasks;
 
 namespace AbstractClassSubAssignment
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
-        public override void SayName()
-        {
-            string fullName = firstName + lastName;
-            Console.WriteLine("Name: " + fullName);
-            Console.ReadLine();
-        }
         public Employee()
         {
             firstName = "Sample ";
             lastName = "Student ";
+        }
+
+        public void Quit()
+        {
+            Console.WriteLine("The above employee is quiting the job today.");
+            Console.ReadLine();
         }
     }
 }
