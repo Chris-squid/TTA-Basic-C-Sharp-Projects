@@ -14,7 +14,7 @@ namespace OverLoadOperatorAssignment
             n.Id = 1001;
 
             Employee n1 = new Employee();
-            n.Id = 1001;
+            n1.Id = 1001;
 
             Console.WriteLine(n == n1); //print results, making compairison with == operator
             Console.ReadLine(); // allows us to read the results being printed to the console
