@@ -1,0 +1,7 @@
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ParametersAssignment\bin\Debug\ParametersAssignment.exe.config
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ParametersAssignment\bin\Debug\ParametersAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ParametersAssignment\bin\Debug\ParametersAssignment.pdb
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ParametersAssignment\obj\Debug\ParametersAssignment.csprojAssemblyReference.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ParametersAssignment\obj\Debug\ParametersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ParametersAssignment\obj\Debug\ParametersAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ParametersAssignment\obj\Debug\ParametersAssignment.pdb
