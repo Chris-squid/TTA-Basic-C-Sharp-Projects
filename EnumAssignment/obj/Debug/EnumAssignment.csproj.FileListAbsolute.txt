@@ -1,0 +1,7 @@
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\EnumAssignment\bin\Debug\EnumAssignment.exe.config
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\EnumAssignment\bin\Debug\EnumAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\EnumAssignment\bin\Debug\EnumAssignment.pdb
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\EnumAssignment\obj\Debug\EnumAssignment.csprojAssemblyReference.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\EnumAssignment\obj\Debug\EnumAssignment.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\EnumAssignment\obj\Debug\EnumAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\EnumAssignment\obj\Debug\EnumAssignment.pdb
