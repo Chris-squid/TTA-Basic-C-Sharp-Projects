@@ -1,0 +1,7 @@
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\StructAssignment\bin\Debug\StructAssignment.exe.config
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\StructAssignment\bin\Debug\StructAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\StructAssignment\bin\Debug\StructAssignment.pdb
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\StructAssignment\obj\Debug\StructAssignment.csprojAssemblyReference.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\StructAssignment\obj\Debug\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\StructAssignment\obj\Debug\StructAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\StructAssignment\obj\Debug\StructAssignment.pdb
