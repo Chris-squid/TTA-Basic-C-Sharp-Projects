@@ -1,0 +1,7 @@
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\Date_Time\bin\Debug\Date_Time.exe.config
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\Date_Time\bin\Debug\Date_Time.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\Date_Time\bin\Debug\Date_Time.pdb
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\Date_Time\obj\Debug\Date_Time.csprojAssemblyReference.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\Date_Time\obj\Debug\Date_Time.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\Date_Time\obj\Debug\Date_Time.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\Date_Time\obj\Debug\Date_Time.pdb
