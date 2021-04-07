@@ -1,0 +1,6 @@
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe.config
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\TryCatchAssignment\bin\Debug\TryCatchAssignment.pdb
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\TryCatchAssignment\obj\Debug\TryCatchAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\TryCatchAssignment\obj\Debug\TryCatchAssignment.pdb
