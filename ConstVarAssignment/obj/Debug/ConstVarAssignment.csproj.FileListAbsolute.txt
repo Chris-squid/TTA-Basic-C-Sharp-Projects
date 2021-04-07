@@ -1,0 +1,7 @@
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ConstVarAssignment\bin\Debug\ConstVarAssignment.exe.config
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ConstVarAssignment\bin\Debug\ConstVarAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ConstVarAssignment\bin\Debug\ConstVarAssignment.pdb
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ConstVarAssignment\obj\Debug\ConstVarAssignment.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ConstVarAssignment\obj\Debug\ConstVarAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ConstVarAssignment\obj\Debug\ConstVarAssignment.pdb
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\ConstVarAssignment\obj\Debug\ConstVarAssignment.csprojAssemblyReference.cache
