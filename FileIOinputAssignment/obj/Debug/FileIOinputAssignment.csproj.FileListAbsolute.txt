@@ -1,0 +1,7 @@
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\FileIOinputAssignment\bin\Debug\FileIOinputAssignment.exe.config
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\FileIOinputAssignment\bin\Debug\FileIOinputAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\FileIOinputAssignment\bin\Debug\FileIOinputAssignment.pdb
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\FileIOinputAssignment\obj\Debug\FileIOinputAssignment.csprojAssemblyReference.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\FileIOinputAssignment\obj\Debug\FileIOinputAssignment.csproj.CoreCompileInputs.cache
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\FileIOinputAssignment\obj\Debug\FileIOinputAssignment.exe
+C:\Users\15039\OneDrive\Documents\GitHub\Basic_C#_Programs\FileIOinputAssignment\obj\Debug\FileIOinputAssignment.pdb
